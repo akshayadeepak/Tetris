@@ -1,8 +1,4 @@
-################ CSC258H1F Winter 2024 Assembly Final Project ##################
-# This file contains our implementation of Tetris.
-#
-# Student 1: Akshaya Deepak Ramachandran, 1008806810
-# Student 2: Jessie Kim, 1009066662
+######################### Tetris Assembly Project ############################
 ######################## Bitmap Display Configuration ########################
 # - Unit width in pixels:       4
 # - Unit height in pixels:      4
